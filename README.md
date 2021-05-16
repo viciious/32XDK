@@ -87,9 +87,17 @@ http://gendev.spritesmind.net/forum/viewtopic.php?t=3024
 
 https://librixxxi.blogspot.com/search/label/32X
 
-# Other stuff
+# Projects
+
+https://github.com/gameblabla/32x-playground
 
 https://github.com/mic-/lusid-dreams
+
+https://github.com/viciious/d32xr
+
+https://github.com/ammianus/32xHomebrew
+
+# Other stuff
 
 https://www.sega-16.com/forum/showthread.php?27775-Virtua-Fighter-32x-Questions
 
