@@ -41,6 +41,10 @@ https://github.com/viciious/d32xr/commit/9492189ffcd222d5e8cc746e5dcdf9cf33e22a4
 https://github.com/viciious/d32xr/commit/427cf1a7ea19bf9e1e2ae8c6b78080156265ddfc + 
 https://github.com/viciious/d32xr/commit/dbd82421669f252af6ac1e032d3a9c7fab274fa0
 
+http://gendev.spritesmind.net/forum/viewtopic.php?f=4&t=3230
+
+http://gendev.spritesmind.net/forum/viewtopic.php?f=4&t=3229
+
 # Graphics
 
 http://gendev.spritesmind.net/forum/viewtopic.php?t=1766
