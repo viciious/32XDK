@@ -2,7 +2,7 @@
 
 ## Useful links
 
-# DevKit
+# DevKit by Chilly Willy
 
 https://github.com/viciious/32XDK/releases
 
