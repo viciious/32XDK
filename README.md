@@ -14,6 +14,8 @@ https://segaretro.org/Sega_32X/Technical_specifications
 
 https://segaretro.org/File:SH7604_Hardware_Manual.pdf
 
+https://mode5.net/32x-DDK/32Xtoc.html
+
 # General
 
 http://gendev.spritesmind.net/forum/viewtopic.php?t=1157
