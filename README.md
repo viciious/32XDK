@@ -105,6 +105,8 @@ https://github.com/viciious/d32xr
 
 https://github.com/ammianus/32xHomebrew
 
+https://github.com/andwn/marsdev
+
 # Other stuff
 
 https://www.sega-16.com/forum/showthread.php?27775-Virtua-Fighter-32x-Questions
