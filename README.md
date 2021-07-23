@@ -71,6 +71,8 @@ https://forums.sonicretro.org/index.php?threads/32x-framebuffer-questions.19935/
 
 http://gendev.spritesmind.net/forum/viewtopic.php?t=1372
 
+https://gendev.spritesmind.net/forum/viewtopic.php?t=3011
+
 # Audio
 
 https://forums.sonicretro.org/index.php?threads/interrupt-driven-dma-pwm-on-the-32x.29926/
