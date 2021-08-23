@@ -18,6 +18,8 @@ https://mode5.net/32x-DDK/32Xtoc.html
 
 # General
 
+http://techdocs.exodusemulator.com/Console/SegaMegaDrive/Documentation.html#32x-documentation
+
 http://gendev.spritesmind.net/forum/viewtopic.php?t=1157
 
 http://gendev.spritesmind.net/forum/viewtopic.php?t=67
