@@ -51,6 +51,8 @@ http://gendev.spritesmind.net/forum/viewtopic.php?f=4&t=3229
 
 http://gendev.spritesmind.net/forum/viewtopic.php?f=4&t=3206
 
+http://cyberwarriorx.com/sh2-assembly-optimizations
+
 # Graphics
 
 http://gendev.spritesmind.net/forum/viewtopic.php?t=1766
