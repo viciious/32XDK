@@ -53,6 +53,8 @@ http://gendev.spritesmind.net/forum/viewtopic.php?f=4&t=3206
 
 http://cyberwarriorx.com/sh2-assembly-optimizations
 
+https://devblogs.microsoft.com/oldnewthing/20190805-00/?p=102749
+
 # Graphics
 
 http://gendev.spritesmind.net/forum/viewtopic.php?t=1766
