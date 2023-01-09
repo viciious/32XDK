@@ -57,6 +57,8 @@ https://devblogs.microsoft.com/oldnewthing/20190805-00/?p=102749
 
 https://www.yumpu.com/en/document/read/29605339/implementing-a-remote-debugging-agent-using-the-gnu-debugger
 
+https://sourceforge.net/projects/gdbstubs/
+
 # Graphics
 
 http://gendev.spritesmind.net/forum/viewtopic.php?t=1766
