@@ -59,6 +59,8 @@ https://www.yumpu.com/en/document/read/29605339/implementing-a-remote-debugging-
 
 https://sourceforge.net/projects/gdbstubs/
 
+https://opensource.apple.com/source/gdb/gdb-309/src/gdb/sh-stub.c.auto.html
+
 # Graphics
 
 http://gendev.spritesmind.net/forum/viewtopic.php?t=1766
