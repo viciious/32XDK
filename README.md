@@ -87,6 +87,8 @@ http://gendev.spritesmind.net/forum/viewtopic.php?t=1372
 
 https://gendev.spritesmind.net/forum/viewtopic.php?t=3011
 
+https://blog.kaetemi.be/2015/04/01/practical-bayer-dithering/
+
 # Audio
 
 https://forums.sonicretro.org/index.php?threads/interrupt-driven-dma-pwm-on-the-32x.29926/
