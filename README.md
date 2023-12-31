@@ -40,7 +40,7 @@ https://devster.proboards.com/thread/648/cartridge-rom-size-32x-genesis
 
 http://gendev.spritesmind.net/forum/viewtopic.php?t=590
 
-https://www.sega-16.com/forum/showthread.php?34312-busting-32x-performance-myths
+[https://www.sega-16.com/forum/showthread.php?34312-busting-32x-performance-myths](https://www.google.com/url?q=https://web.archive.org/web/20220714133147/https://www.sega-16.com/forum/showthread.php?34312-busting-32x-performance-myths)
 
 http://gendev.spritesmind.net/forum/viewtopic.php?t=1157
 
@@ -81,7 +81,7 @@ http://gendev.spritesmind.net/forum/viewtopic.php?t=74
 
 http://gendev.spritesmind.net/forum/viewtopic.php?t=1147
 
-https://www.sega-16.com/forum/showthread.php?11104-32x-graphics-modes
+[https://www.sega-16.com/forum/showthread.php?11104-32x-graphics-modes](https://web.archive.org/web/20150725051144/http://www.sega-16.com/forum/showthread.php?11104-32x-graphics-modes)
 
 http://gendev.spritesmind.net/forum/viewtopic.php?t=1372
 
@@ -99,7 +99,7 @@ https://forums.sonicretro.org/index.php?threads/interrupt-driven-dma-pwm-on-the-
 
 https://gendev.spritesmind.net/forum/viewtopic.php?f=4&t=890
 
-https://www.sega-16.com/forum/showthread.php?26052-32x-sound-programming
+[https://www.sega-16.com/forum/showthread.php?26052-32x-sound-programming](https://web.archive.org/web/20150725051454/http://www.sega-16.com/forum/showthread.php?26052-32x-sound-programming)
 
 http://gendev.spritesmind.net/forum/viewtopic.php?t=592
 
@@ -107,7 +107,7 @@ https://gendev.spritesmind.net/forum/viewtopic.php?t=385
 
 https://gendev.spritesmind.net/forum/viewtopic.php?t=1403
 
-https://www.sega-16.com/forum/archive/index.php/t-3317.html
+[https://www.sega-16.com/forum/archive/index.php/t-3317.html](https://web.archive.org/web/20161030072114/http://www.sega-16.com/forum/archive/index.php/t-3317.html)
 
 https://segaxtreme.net/threads/advanced-audio-compression-on-the-32x.17708/
 
@@ -137,11 +137,11 @@ https://github.com/haroldo-ok/vn32x
 
 # Other stuff
 
-https://www.sega-16.com/forum/showthread.php?27775-Virtua-Fighter-32x-Questions
+[https://www.sega-16.com/forum/showthread.php?27775-Virtua-Fighter-32x-Questions](https://web.archive.org/web/20161030072114/https://www.sega-16.com/forum/showthread.php?27775-Virtua-Fighter-32x-Questions)
 
-https://www.sega-16.com/forum/showthread.php?18716-Yeti-3D/page5
+[https://www.sega-16.com/forum/showthread.php?18716-Yeti-3D/page5](https://web.archive.org/web/20150725063451/https://www.sega-16.com/forum/showthread.php?18716-Yeti-3D/page5)
 
-https://www.sega-16.com/forum/showthread.php?14038-Review-of-Retro-Gamer-s-32X-quot-Retroinspection-quot
+[https://www.sega-16.com/forum/showthread.php?14038-Review-of-Retro-Gamer-s-32X-quot-Retroinspection-quot](https://web.archive.org/web/20150725063716/http://www.sega-16.com/forum/showthread.php?14038-Review-of-Retro-Gamer-s-32X-quot-Retroinspection-quot)
 
-https://www.sega-16.com/forum/showthread.php?34266-32x-mod-player
+[https://www.sega-16.com/forum/showthread.php?34266-32x-mod-player](https://web.archive.org/web/20150725063716/https://www.sega-16.com/forum/showthread.php?34266-32x-mod-player)
 
