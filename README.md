@@ -6,6 +6,10 @@
 
 https://github.com/viciious/32XDK/releases
 
+# WIKI
+
+https://github.com/viciious/32XDK/wiki
+
 # Hardware specs
 
 http://www.tmeeco.eu/SMD/32x_hardware_manual.pdf
