@@ -6,7 +6,7 @@
 
 https://github.com/viciious/32XDK/releases
 
-# WIKI
+# Wiki
 
 https://github.com/viciious/32XDK/wiki
 
