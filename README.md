@@ -141,6 +141,8 @@ https://github.com/haroldo-ok/vn32x
 
 [https://www.sega-16.com/forum/showthread.php?18716-Yeti-3D/page5](https://web.archive.org/web/20150725063451/https://www.sega-16.com/forum/showthread.php?18716-Yeti-3D/page5)
 
+[https://mdshock.com/2020/06/16/the-story-of-the-hitachi-sh-2-and-the-sega-saturn/](https://mdshock.com/2020/06/16/the-story-of-the-hitachi-sh-2-and-the-sega-saturn/)
+
 [https://www.sega-16.com/forum/showthread.php?14038-Review-of-Retro-Gamer-s-32X-quot-Retroinspection-quot](https://web.archive.org/web/20150725063716/http://www.sega-16.com/forum/showthread.php?14038-Review-of-Retro-Gamer-s-32X-quot-Retroinspection-quot)
 
 [https://www.sega-16.com/forum/showthread.php?34266-32x-mod-player](https://web.archive.org/web/20150725063716/https://www.sega-16.com/forum/showthread.php?34266-32x-mod-player)
