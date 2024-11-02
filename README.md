@@ -22,6 +22,8 @@ https://mode5.net/32x-DDK/32Xtoc.html
 
 # General
 
+https://segaretro.org/images/6/61/32X_Introduction_and_System_Features_-_26_-_04_-_1994.pdf
+
 http://techdocs.exodusemulator.com/Console/SegaMegaDrive/Documentation.html#32x-documentation
 
 http://gendev.spritesmind.net/forum/viewtopic.php?t=1157
